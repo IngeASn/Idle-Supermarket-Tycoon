@@ -1,0 +1,21 @@
+{
+    "name": "idle-supermarket-tycoon-hack/idle-supermarket-tycoon-hack-mod-apk-get-unlimited-money",
+    "description": "Idle Supermarket Tycoon Hack Mod APK Get Unlimited Money Cheats Generator IOS & Android",
+
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ClICK HERE to HACK Idle Supermarket Tycoon",
+            "homepage": "http://astuce.cf/2019/02/idle-supermarket-tycoon-hack-gems-cheats.html",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+   
+    "minimum-stability": "dev"
+}
